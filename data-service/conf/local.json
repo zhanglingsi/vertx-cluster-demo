@@ -1,0 +1,7 @@
+{
+ "zk.ip": "127.0.0.1",
+ "zk.port": "2181",
+ "basePath": "/vertx/zk/service",
+ "rest.api.name": "data-httpEndpoint",
+ "zk.discovery.name": "vertx.zk.provider"
+}

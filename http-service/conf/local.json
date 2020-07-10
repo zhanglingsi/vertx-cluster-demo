@@ -1,0 +1,10 @@
+{
+  "http.port": 8080,
+  "http.host": "127.0.0.1",
+  "zk.ip": "127.0.0.1",
+  "zk.port": "2181",
+  "basePath": "/vertx/zk/service",
+  "consumer.host": "127.0.0.1",
+  "zk.discovery.name": "vertx.zk.consumer",
+  "rest.api.name": "data-httpEndpoint"
+}
